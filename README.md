@@ -1,4 +1,7 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub
+se ocane ha un cane, di chi è il cane ?
+
+rispondi..
 
 ## 🤓 Course overview and learning outcomes 
 
